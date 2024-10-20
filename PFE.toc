@@ -1,0 +1,44 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Symboles et abréviations}{3}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Préliminaire sur l'analyse des système différentiel déterministe}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Équations différentielles ordinaires }{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Existence et unicité de la solution}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Notions de stabilité }{5}{subsection.1.1.2}%
+\contentsline {subsubsection}{La stabilité des systèmes linéaires}{6}{bclogocompteur.2}%
+\contentsline {subsubsection}{La stabilité des systèmes non linéaires}{7}{bclogocompteur.4}%
+\contentsline {subsubsection}{Fonctions de Lyapunov}{8}{bclogocompteur.6}%
+\contentsline {chapter}{\numberline {2}Modèle du chémostat déterministe}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Équation de chémostat}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Propriétés mathématiques du modèle}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Existence et unicité de la solution positive}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Le taux de croissance de biomasse $\mu $ est strictement croissant.}{14}{subsection.2.2.2}%
+\contentsline {subsubsection}{Les équilibres du système.}{15}{figure.caption.7}%
+\contentsline {subsection}{\numberline {2.2.3}Le taux de croissance de biomasse $\mu $ n'est pas strictement monotone}{16}{subsection.2.2.3}%
+\contentsline {subsubsection}{Les équilibres }{16}{figure.caption.8}%
+\contentsline {section}{\numberline {2.3}Diagrammes opératoires}{19}{section.2.3}%
+\contentsline {subsubsection}{$\blacklozenge $ Le cas où la fonction $\mu $ est de type Monod}{19}{section.2.3}%
+\contentsline {subsubsection}{$\blacklozenge $ Le cas où la fonction $\mu $ est de type Haldane}{19}{figure.2.4}%
+\contentsline {section}{\numberline {2.4}Présence de biomasse dans l'alimentation}{20}{section.2.4}%
+\contentsline {subsubsection}{Propretés générales}{20}{equation.2.4.9}%
+\contentsline {subsubsection}{Les équilibres }{21}{bclogocompteur.14}%
+\contentsline {chapter}{\numberline {3}Préliminaire sur les systèmes différentiels stochastiques}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Processus stochastique et mouvement brownien}{23}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{23}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Notion de temps d'arrêt d'un processus}{24}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Notion sur le calcul stochastique d'Itô}{25}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}L'intégrale stochastique et formule d'Itô }{25}{subsection.3.2.1}%
+\contentsline {subsubsection}{Intégrale stochastique des processus élémentaires}{25}{subsection.3.2.1}%
+\contentsline {subsubsection}{Processus d'Itô et formule d'Itô }{28}{bclogocompteur.34}%
+\contentsline {subsection}{\numberline {3.2.2}Équation Différentielle Stochastique}{29}{subsection.3.2.2}%
+\contentsline {subsubsection}{Un théorème d'existence et d'unicité pour les EDS}{30}{equation.3.2.6}%
+\contentsline {chapter}{\numberline {4}Modèle du chémostat stochastique }{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Première construction du modèle stochastique}{33}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Existence et unicité de la solution positive}{34}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Extinction de la biomasse}{38}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Distribution stationnaire et ergodicité}{40}{subsection.4.1.3}%
+\contentsline {chapter}{\numberline {5}Simulation déterministe et stochastique}{46}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Application numérique du première modèle stochastique}{46}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Deuxième construction du modèle stochastique}{52}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Existence et unicité de la solution }{53}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Application numérique }{57}{section.6.2}%
+\contentsline {chapter}{Bibliographie}{63}{chapter*.18}%
